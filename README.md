@@ -1,19 +1,35 @@
-### Hi there 👋, my name is Nabeel Ahmed
-#### I am a passionate full stack developer from Pakistan
-I am currently in my last semester. I have an experience of 1 year working professionally. I have explored major computer science fields in the past 3 years, including Web, AI, and ML.
+<a href="https://github.com/nabeelahmed-090"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=nabeelahmed-090&style=flat-square" width="125"/></a>
 
-- 💬 Ask me about MERN 
-- 📫 How to reach me: nabeelahmedamir@gmail.com 
+<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/nabeel-ahmed-amir/">Nabeel</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
+#### I am a computer science student from Pakistan. I am interested in working on creative and unique ideas.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nabeelahmed-090)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabeel-ahmed-amir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nabeelahmed_09/)  
+## 🧑🏽‍💻 What am I doing?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelahmed-090)](https://github.com/anuraghazra/github-readme-stats)
+<div style="line-height: 1.15">
+    <b>🚀 Intech Process Automation </b>
+    <p>Junior Software Engineer</p>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nabeelahmed-090&show_icons=true&count_private=true)  
+<div style="line-height: 1.15">
+    <b>👨‍🏫 National University of Computer and Emerging Sciences</b>
+    <p>Teaching Assistant, BS (Programming Fundamentals)</p>
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/nabeelahmed-090)  
+<div style="line-height: 1.15">
+    <b>📚 National University of Computer and Emerging Sciences</b>
+    <p>BS (Computer Science)</p>
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nabeelahmed-090)  
+## 💻 Technical Skills
 
-![Profile views](https://gpvc.arturio.dev/nabeelahmed-090)  
+- Web and Desktop Application Development.
+
+- AI/ML Model Development.
+
+<h2 align="left">🌐 How to connect?</h2>
+<p align="left">
+  <a href="mailto:nabeelahmedamir@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nabeel-ahmed-amir/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nabeelahmed-090"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
