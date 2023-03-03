@@ -1,5 +1,3 @@
-<a href="https://github.com/nabeelahmed-090"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=nabeelahmed-090&style=flat-square" width="125"/></a>
-
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/nabeel-ahmed-amir/">Nabeel</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
 #### I am a computer science student from Pakistan. I am interested in working on creative and unique ideas.
